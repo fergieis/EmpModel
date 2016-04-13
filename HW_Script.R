@@ -194,3 +194,6 @@ summary(model3)
 ### increasing the error in our slope estimate in the reduced model, I would prefer
 ### the full model that includes the intercept.
 
+###/-------------------------------------/
+
+### Problem 2.26: Attached, completed by hand.
